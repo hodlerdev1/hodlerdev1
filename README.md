@@ -79,8 +79,10 @@ Each with detailed documentation, examples, and professional structure.
 ## 📬 Contact
 
 For collaboration, consulting, or project inquiries:  
-📧 **youremail@example.com**  
-🔗 **linkedin.com/in/yourprofile**
+📧 **hodlergithub@gmail.com**  
+🔗 **https://www.linkedin.com/in/hodler-13a930318**
+🐦 **x.com/hodlerr0**
+📷 **https://www.instagram.com/osmnszn_/**
 
 ---
 
