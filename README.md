@@ -80,8 +80,11 @@ Each with detailed documentation, examples, and professional structure.
 
 For collaboration, consulting, or project inquiries:  
 📧 **hodlergithub@gmail.com**  
+
 🔗 **https://www.linkedin.com/in/hodler-13a930318**
+
 🐦 **x.com/hodlerr0**
+
 📷 **https://www.instagram.com/osmnszn_/**
 
 ---
