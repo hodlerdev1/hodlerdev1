@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm an AI Product Developer</h1>
+<h1 align="center">👋 Hey, I'm HODLER</h1>
 
 <p align="center">
 I build products using AI-first development, vibe coding, prompt engineering, and user-focused prototyping.
