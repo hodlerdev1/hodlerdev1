@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm HODLER</h1>
 
 <p align="center">
-I'm currently working on https://www.napanbe.com/. We are building products using AI-first development, vibe coding, prompt engineering, and user-focused prototyping.
+I'm currently working at https://www.napanbe.com/. We are building products using AI-first development, vibe coding, prompt engineering, and user-focused prototyping.
 </p>
 
 ---
